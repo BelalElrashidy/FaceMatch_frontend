@@ -1,0 +1,23 @@
+.main{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5rem 0 5rem ;
+    column-gap: 10rem;
+    row-gap: 2rem;
+
+}
+.container{
+    box-shadow: 0px 3px 15px rgba(0,0,0);
+    flex-basis: 25%;
+    width: max-content;
+    height: 22rem;
+    display: flex;
+    flex-direction: column;
+    gap:  2rem;
+    border: 3px solid $third-color;
+    border-radius: 1rem;
+    padding: 2rem;
+}

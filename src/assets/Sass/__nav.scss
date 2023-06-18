@@ -1,0 +1,29 @@
+header{
+    background-color: $primary-color;
+    padding: 0.5rem 8rem ;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    ul{
+        display: flex;
+        flex-direction: row;
+        align-content: space-between;
+        list-style: none;
+        color: white;
+        gap:  3rem;
+        font-size: 20px;
+        padding-left: 20rem;
+        font-weight: 400;
+        a{
+            text-decoration: none;
+            color: white;
+            :visited{
+                color: white;
+            }
+        }
+    }
+}
