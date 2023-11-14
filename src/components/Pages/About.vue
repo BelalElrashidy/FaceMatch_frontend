@@ -1,7 +1,7 @@
 <template>
     <div style="width: 100vw ; height: 100vh;">
 
-        <img src="../../assets/pictures/About us.jpg" alt="About US"  style="width: 100vw;"/>
+        <img src="../../assets/pictures/Aboutus.jpg" alt="About US"  style="width: 100vw;"/>
     </div>
     <div class="main">
     <container
