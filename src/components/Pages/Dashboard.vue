@@ -1,8 +1,8 @@
 <template>
-    <container v-for="" />
+    <!-- <container v-for="" /> -->
 </template>
 <script>
-    import container from "../text.vue";
+    import container from "../Container.vue";
     export default {
         components: {container}
     }
